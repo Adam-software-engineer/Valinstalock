@@ -1,0 +1,456 @@
+[
+    {
+        "label": "cmp_to_key",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "close",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "COMMAND",
+        "importPath": "tkinter.constants",
+        "description": "tkinter.constants",
+        "isExtraImport": true,
+        "detail": "tkinter.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LEFT",
+        "importPath": "tkinter.constants",
+        "description": "tkinter.constants",
+        "isExtraImport": true,
+        "detail": "tkinter.constants",
+        "documentation": {}
+    },
+    {
+        "label": "keyboard",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "keyboard",
+        "description": "keyboard",
+        "detail": "keyboard",
+        "documentation": {}
+    },
+    {
+        "label": "pyautogui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyautogui",
+        "description": "pyautogui",
+        "detail": "pyautogui",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Tk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "pynput",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pynput",
+        "description": "pynput",
+        "detail": "pynput",
+        "documentation": {}
+    },
+    {
+        "label": "telegram",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def telegram():\n    webbrowser.open_new_tab('t.me/TalkToGabry_bot')\ndef astra():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(666, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "astra",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def astra():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(666, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "breach",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def breach():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(750, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "brim",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def brim():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(834, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "cypher",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def cypher():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(918, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "jett",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def jett():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1002, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "killjoy",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def killjoy():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1086, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "omen",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def omen():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1170, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "phoenix",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def phoenix():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1254, 925)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "raze",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def raze():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(666, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "reyna",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def reyna():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(750, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "sage",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def sage(): \n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(834, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "skye",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def skye():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(918, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "sova",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def sova():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1002, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "viper",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def viper():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1086, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "yoru",
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def yoru():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!\", fg='black', font=(\"Helvetica\", 11))\n    text_output.grid(row=13, column=0, padx=170, sticky='W')\n    while True:\n        pg.moveTo(1170, 1015)\n        pg.doubleClick()\n        pg.PAUSE=0.035\n        pg.moveTo(954, 812)\n        pg.doubleClick() \n        try:  ",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": {
+            "name": "",
+            "kind": 2,
+            "peekOfCode": "def  iso():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!!\", fg=\"black\", font=(\"Helvetica\", 11))\n    text_output.grid(row = 13, column=0,padx=170, sticky=\"W\")\n    while True:\n        pg.moveTo()\n        pg.doubleClick()\n        pg.PAUSE = 0.035\n        pg.moveTo()\n        pg.doubleClick()\nastrap = tk.Button(text='Pick Astra', command=astra, fg='purple', font=(\"Helvetica\", 14))"
+        },
+        "kind": 2,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "def  iso():\n    text_output = Label(window, text=\"OK! Now go play and carry your team!!\", fg=\"black\", font=(\"Helvetica\", 11))\n    text_output.grid(row = 13, column=0,padx=170, sticky=\"W\")\n    while True:\n        pg.moveTo()\n        pg.doubleClick()\n        pg.PAUSE = 0.035\n        pg.moveTo()\n        pg.doubleClick()\nastrap = tk.Button(text='Pick Astra', command=astra, fg='purple', font=(\"Helvetica\", 14))",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "astrap",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "astrap = tk.Button(text='Pick Astra', command=astra, fg='purple', font=(\"Helvetica\", 14))\nastrap.grid(row=4, column=0, sticky='W')\nbreachp = tk.Button(text='Pick Breach', command=breach, fg='OrangeRed4', font=(\"Helvetica\", 14))\nbreachp.grid(row=5, column=0, sticky=\"W\")\nbrimp = tk.Button(text=\"Pick Brim\", command=brim, fg='orange2', font=(\"Helvetica\", 14))\nbrimp.grid(row=6, column=0, sticky=\"W\")\ncypherp = tk.Button(text=\"Pick Cypher\", command=cypher, fg='LightBlue3', font=(\"Helvetica\", 14))\ncypherp.grid(row=7, column=0, sticky=\"W\")\njettp = tk.Button(text='Pick Jett', command=jett, fg='skyblue1', font=(\"Helvetica\", 14))\njettp.grid(row=8, column=0, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "breachp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "breachp = tk.Button(text='Pick Breach', command=breach, fg='OrangeRed4', font=(\"Helvetica\", 14))\nbreachp.grid(row=5, column=0, sticky=\"W\")\nbrimp = tk.Button(text=\"Pick Brim\", command=brim, fg='orange2', font=(\"Helvetica\", 14))\nbrimp.grid(row=6, column=0, sticky=\"W\")\ncypherp = tk.Button(text=\"Pick Cypher\", command=cypher, fg='LightBlue3', font=(\"Helvetica\", 14))\ncypherp.grid(row=7, column=0, sticky=\"W\")\njettp = tk.Button(text='Pick Jett', command=jett, fg='skyblue1', font=(\"Helvetica\", 14))\njettp.grid(row=8, column=0, sticky=\"W\")\nkilljoyp = tk.Button(text='Pick Killjoy', command=killjoy, fg='gold', font=(\"Helvetica\", 14))\nkilljoyp.grid(row=9, column=0, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "brimp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "brimp = tk.Button(text=\"Pick Brim\", command=brim, fg='orange2', font=(\"Helvetica\", 14))\nbrimp.grid(row=6, column=0, sticky=\"W\")\ncypherp = tk.Button(text=\"Pick Cypher\", command=cypher, fg='LightBlue3', font=(\"Helvetica\", 14))\ncypherp.grid(row=7, column=0, sticky=\"W\")\njettp = tk.Button(text='Pick Jett', command=jett, fg='skyblue1', font=(\"Helvetica\", 14))\njettp.grid(row=8, column=0, sticky=\"W\")\nkilljoyp = tk.Button(text='Pick Killjoy', command=killjoy, fg='gold', font=(\"Helvetica\", 14))\nkilljoyp.grid(row=9, column=0, sticky=\"W\")\nomenp = tk.Button(text='Pick Omen', command=omen, fg='slateblue3', font=(\"Helvetica\", 14))\nomenp.grid(row=10, column=0, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "cypherp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "cypherp = tk.Button(text=\"Pick Cypher\", command=cypher, fg='LightBlue3', font=(\"Helvetica\", 14))\ncypherp.grid(row=7, column=0, sticky=\"W\")\njettp = tk.Button(text='Pick Jett', command=jett, fg='skyblue1', font=(\"Helvetica\", 14))\njettp.grid(row=8, column=0, sticky=\"W\")\nkilljoyp = tk.Button(text='Pick Killjoy', command=killjoy, fg='gold', font=(\"Helvetica\", 14))\nkilljoyp.grid(row=9, column=0, sticky=\"W\")\nomenp = tk.Button(text='Pick Omen', command=omen, fg='slateblue3', font=(\"Helvetica\", 14))\nomenp.grid(row=10, column=0, sticky=\"W\")\nphoenixp = tk.Button(text='Pick Phoenix', command=phoenix, fg='red2', font=(\"Helvetica\", 14))\nphoenixp.grid(row=4, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "jettp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "jettp = tk.Button(text='Pick Jett', command=jett, fg='skyblue1', font=(\"Helvetica\", 14))\njettp.grid(row=8, column=0, sticky=\"W\")\nkilljoyp = tk.Button(text='Pick Killjoy', command=killjoy, fg='gold', font=(\"Helvetica\", 14))\nkilljoyp.grid(row=9, column=0, sticky=\"W\")\nomenp = tk.Button(text='Pick Omen', command=omen, fg='slateblue3', font=(\"Helvetica\", 14))\nomenp.grid(row=10, column=0, sticky=\"W\")\nphoenixp = tk.Button(text='Pick Phoenix', command=phoenix, fg='red2', font=(\"Helvetica\", 14))\nphoenixp.grid(row=4, column=0, padx=400, sticky=\"W\")\nrazep = tk.Button(text= 'Pick Raze', command=raze, fg='orange red', font=('Helvetica', 14))\nrazep.grid(row=5, column=0, padx=400, sticky='W')",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "killjoyp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "killjoyp = tk.Button(text='Pick Killjoy', command=killjoy, fg='gold', font=(\"Helvetica\", 14))\nkilljoyp.grid(row=9, column=0, sticky=\"W\")\nomenp = tk.Button(text='Pick Omen', command=omen, fg='slateblue3', font=(\"Helvetica\", 14))\nomenp.grid(row=10, column=0, sticky=\"W\")\nphoenixp = tk.Button(text='Pick Phoenix', command=phoenix, fg='red2', font=(\"Helvetica\", 14))\nphoenixp.grid(row=4, column=0, padx=400, sticky=\"W\")\nrazep = tk.Button(text= 'Pick Raze', command=raze, fg='orange red', font=('Helvetica', 14))\nrazep.grid(row=5, column=0, padx=400, sticky='W')\nreynap = tk.Button(text='Pick Reyna', command=reyna, fg='mediumpurple3', font=(\"Helvetica\", 14))\nreynap.grid(row=6, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "omenp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "omenp = tk.Button(text='Pick Omen', command=omen, fg='slateblue3', font=(\"Helvetica\", 14))\nomenp.grid(row=10, column=0, sticky=\"W\")\nphoenixp = tk.Button(text='Pick Phoenix', command=phoenix, fg='red2', font=(\"Helvetica\", 14))\nphoenixp.grid(row=4, column=0, padx=400, sticky=\"W\")\nrazep = tk.Button(text= 'Pick Raze', command=raze, fg='orange red', font=('Helvetica', 14))\nrazep.grid(row=5, column=0, padx=400, sticky='W')\nreynap = tk.Button(text='Pick Reyna', command=reyna, fg='mediumpurple3', font=(\"Helvetica\", 14))\nreynap.grid(row=6, column=0, padx=400, sticky=\"W\")\nsagep = tk.Button(text='Pick Sage', command=sage, fg='turquoise1', font=(\"Helvetica\", 14))\nsagep.grid(row=7, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "phoenixp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "phoenixp = tk.Button(text='Pick Phoenix', command=phoenix, fg='red2', font=(\"Helvetica\", 14))\nphoenixp.grid(row=4, column=0, padx=400, sticky=\"W\")\nrazep = tk.Button(text= 'Pick Raze', command=raze, fg='orange red', font=('Helvetica', 14))\nrazep.grid(row=5, column=0, padx=400, sticky='W')\nreynap = tk.Button(text='Pick Reyna', command=reyna, fg='mediumpurple3', font=(\"Helvetica\", 14))\nreynap.grid(row=6, column=0, padx=400, sticky=\"W\")\nsagep = tk.Button(text='Pick Sage', command=sage, fg='turquoise1', font=(\"Helvetica\", 14))\nsagep.grid(row=7, column=0, padx=400, sticky=\"W\")\nskyep = tk.Button(text='Pick Skye', command=skye, fg='spring green', font=(\"Helvetica\", 14))\nskyep.grid(row=8, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "razep",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "razep = tk.Button(text= 'Pick Raze', command=raze, fg='orange red', font=('Helvetica', 14))\nrazep.grid(row=5, column=0, padx=400, sticky='W')\nreynap = tk.Button(text='Pick Reyna', command=reyna, fg='mediumpurple3', font=(\"Helvetica\", 14))\nreynap.grid(row=6, column=0, padx=400, sticky=\"W\")\nsagep = tk.Button(text='Pick Sage', command=sage, fg='turquoise1', font=(\"Helvetica\", 14))\nsagep.grid(row=7, column=0, padx=400, sticky=\"W\")\nskyep = tk.Button(text='Pick Skye', command=skye, fg='spring green', font=(\"Helvetica\", 14))\nskyep.grid(row=8, column=0, padx=400, sticky=\"W\")\nsovap = tk.Button(text='Pick Sova', command=sova, fg='cyan3', font=(\"Helvetica\", 14))\nsovap.grid(row=9, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "reynap",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "reynap = tk.Button(text='Pick Reyna', command=reyna, fg='mediumpurple3', font=(\"Helvetica\", 14))\nreynap.grid(row=6, column=0, padx=400, sticky=\"W\")\nsagep = tk.Button(text='Pick Sage', command=sage, fg='turquoise1', font=(\"Helvetica\", 14))\nsagep.grid(row=7, column=0, padx=400, sticky=\"W\")\nskyep = tk.Button(text='Pick Skye', command=skye, fg='spring green', font=(\"Helvetica\", 14))\nskyep.grid(row=8, column=0, padx=400, sticky=\"W\")\nsovap = tk.Button(text='Pick Sova', command=sova, fg='cyan3', font=(\"Helvetica\", 14))\nsovap.grid(row=9, column=0, padx=400, sticky=\"W\")\nviperp = tk.Button(text = 'Pick Viper', command=viper, fg='forest green', font=(\"Helvetica\", 14))\nviperp.grid(row=10, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "sagep",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "sagep = tk.Button(text='Pick Sage', command=sage, fg='turquoise1', font=(\"Helvetica\", 14))\nsagep.grid(row=7, column=0, padx=400, sticky=\"W\")\nskyep = tk.Button(text='Pick Skye', command=skye, fg='spring green', font=(\"Helvetica\", 14))\nskyep.grid(row=8, column=0, padx=400, sticky=\"W\")\nsovap = tk.Button(text='Pick Sova', command=sova, fg='cyan3', font=(\"Helvetica\", 14))\nsovap.grid(row=9, column=0, padx=400, sticky=\"W\")\nviperp = tk.Button(text = 'Pick Viper', command=viper, fg='forest green', font=(\"Helvetica\", 14))\nviperp.grid(row=10, column=0, padx=400, sticky=\"W\")\nyorup = tk.Button(text='Pick Yoru', command=yoru, fg='medium blue', font=(\"Helvetica\", 14))\nyorup.grid(row=11, column=0, padx=400, sticky=\"W\")",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "skyep",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "skyep = tk.Button(text='Pick Skye', command=skye, fg='spring green', font=(\"Helvetica\", 14))\nskyep.grid(row=8, column=0, padx=400, sticky=\"W\")\nsovap = tk.Button(text='Pick Sova', command=sova, fg='cyan3', font=(\"Helvetica\", 14))\nsovap.grid(row=9, column=0, padx=400, sticky=\"W\")\nviperp = tk.Button(text = 'Pick Viper', command=viper, fg='forest green', font=(\"Helvetica\", 14))\nviperp.grid(row=10, column=0, padx=400, sticky=\"W\")\nyorup = tk.Button(text='Pick Yoru', command=yoru, fg='medium blue', font=(\"Helvetica\", 14))\nyorup.grid(row=11, column=0, padx=400, sticky=\"W\")\nisop = tk.Button(text='Pick iso', command=iso, fg = \"black\", font=(\"Helvetica\", 14))\nfirst_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "sovap",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "sovap = tk.Button(text='Pick Sova', command=sova, fg='cyan3', font=(\"Helvetica\", 14))\nsovap.grid(row=9, column=0, padx=400, sticky=\"W\")\nviperp = tk.Button(text = 'Pick Viper', command=viper, fg='forest green', font=(\"Helvetica\", 14))\nviperp.grid(row=10, column=0, padx=400, sticky=\"W\")\nyorup = tk.Button(text='Pick Yoru', command=yoru, fg='medium blue', font=(\"Helvetica\", 14))\nyorup.grid(row=11, column=0, padx=400, sticky=\"W\")\nisop = tk.Button(text='Pick iso', command=iso, fg = \"black\", font=(\"Helvetica\", 14))\nfirst_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))\nfirst_button.grid(row=2, column=0, sticky='W')\ntk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "viperp",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "viperp = tk.Button(text = 'Pick Viper', command=viper, fg='forest green', font=(\"Helvetica\", 14))\nviperp.grid(row=10, column=0, padx=400, sticky=\"W\")\nyorup = tk.Button(text='Pick Yoru', command=yoru, fg='medium blue', font=(\"Helvetica\", 14))\nyorup.grid(row=11, column=0, padx=400, sticky=\"W\")\nisop = tk.Button(text='Pick iso', command=iso, fg = \"black\", font=(\"Helvetica\", 14))\nfirst_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))\nfirst_button.grid(row=2, column=0, sticky='W')\ntk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))\ntk.stop.grid(row= 11, column=0, sticky='W')\ntk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "yorup",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "yorup = tk.Button(text='Pick Yoru', command=yoru, fg='medium blue', font=(\"Helvetica\", 14))\nyorup.grid(row=11, column=0, padx=400, sticky=\"W\")\nisop = tk.Button(text='Pick iso', command=iso, fg = \"black\", font=(\"Helvetica\", 14))\nfirst_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))\nfirst_button.grid(row=2, column=0, sticky='W')\ntk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))\ntk.stop.grid(row= 11, column=0, sticky='W')\ntk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))\ntk.titolo.grid(row=1, column=0, padx=170, sticky='W')\nif __name__ == \"__main__\":",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "isop",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "isop = tk.Button(text='Pick iso', command=iso, fg = \"black\", font=(\"Helvetica\", 14))\nfirst_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))\nfirst_button.grid(row=2, column=0, sticky='W')\ntk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))\ntk.stop.grid(row= 11, column=0, sticky='W')\ntk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))\ntk.titolo.grid(row=1, column=0, padx=170, sticky='W')\nif __name__ == \"__main__\":\n    window.mainloop()",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "first_button",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "first_button = tk.Button(text=\"For any kind of problem, contact me on telegram by pressing this button\", command=telegram, fg='black', font=(\"Helvetica\", 14))\nfirst_button.grid(row=2, column=0, sticky='W')\ntk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))\ntk.stop.grid(row= 11, column=0, sticky='W')\ntk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))\ntk.titolo.grid(row=1, column=0, padx=170, sticky='W')\nif __name__ == \"__main__\":\n    window.mainloop()",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "tk.stop",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "tk.stop = tk.Label = Label(text=\"To stop the program, spam 'P'\", fg=\"black\", font=('Helvetica', 14))\ntk.stop.grid(row= 11, column=0, sticky='W')\ntk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))\ntk.titolo.grid(row=1, column=0, padx=170, sticky='W')\nif __name__ == \"__main__\":\n    window.mainloop()",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    },
+    {
+        "label": "tk.titolo",
+        "kind": 5,
+        "importPath": "Valorant Agent Picker",
+        "description": "Valorant Agent Picker",
+        "peekOfCode": "tk.titolo = tk.Label = Label(text='Valorant agent picker by @Ga6r13l3', fg='black', font=(\"Helvetica\", 14))\ntk.titolo.grid(row=1, column=0, padx=170, sticky='W')\nif __name__ == \"__main__\":\n    window.mainloop()",
+        "detail": "Valorant Agent Picker",
+        "documentation": {}
+    }
+]
